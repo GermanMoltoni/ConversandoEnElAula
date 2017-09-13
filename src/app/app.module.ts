@@ -19,7 +19,7 @@ import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { AngularFireAuthModule } from 'angularfire2/auth';
 export  var firebaseConf = {
-  apiKey: "",
+  apiKey: "AIzaSyAjeFNj2NHvqCB1ObUju7em0bViQrRtB2o",
   authDomain: "conversandoenelaula.firebaseapp.com",
   databaseURL: "https://conversandoenelaula.firebaseio.com",
   projectId: "conversandoenelaula",
