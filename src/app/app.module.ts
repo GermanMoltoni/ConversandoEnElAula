@@ -23,7 +23,7 @@ export  var firebaseConf = {
   authDomain: "conversandoenelaula.firebaseapp.com",
   databaseURL: "https://conversandoenelaula.firebaseio.com",
   projectId: "conversandoenelaula",
-  storageBucket: "",
+  storageBucket: "conversandoenelaula.appspot.com",
   messagingSenderId: "920296734660"
 };
 //-----------
